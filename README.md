@@ -15,6 +15,8 @@ Content Creator ( any field, biology, finance, law ) Researcher and Map Author w
 Biz dev , understands space and market expert, 
 
 
+## Mathematician / Tactical Economist 
+Visionary thinker in any advanced mathematics, including combinatorics, graphs, constant functions
 
 
 
