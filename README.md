@@ -6,7 +6,7 @@ REPO: UIX
 <br>
 
 ### Data Integration Engineer
-JavaScript Ninja with deep interest in Web3, automation, transpilers, WebAssembly, WASM. Integration engineer would build modern marvel of middleware. All kinds of middleware, including WASM, WASI, WebAssembly, various isolation layers like LavaMoat. Additional middlware for caching requests , browser emulation, device emulation. 
+JavaScript Ninja with deep interest in Web3, automation, transpilers, WebAssembly, WASM. Integration engineer would build modern marvel of middleware. All kinds of middleware, including WASM, WASI, WebAssembly, WebWorkers. various isolation layers like LavaMoat. Additional middlware for caching requests , browser emulation, device emulation. Integrations and experiments with Web3, Curve SDK, Uniswap SDK, ChainLink, Ethers.js, CCXT, TheGraph. Most importantly to invent new ways of accomplishing functionality without the rules and conventions imposed by more restrictive frameworks.
 <br>
 <br>
 <br>
@@ -23,12 +23,19 @@ Creator of iconography. Using Blender 3D or any platform. Building 3D Models and
 <br>
 <br>
 
+
 #### Content Manager
 Content Creator ( any field, biology, finance, law ) Researcher and Map Author will build datasets, aggregate icons, manage data  Librarion Media Manager: CATALOG All Target LOGOS and MetaData 
 <br>
 <br>
 <br>
- 
+
+### Systems Engineer
+Optimized compiled applications engineer
+<br>
+<br>
+<br>
+
 #### Community Manager 
 #### Market expert
 #### Research Scientist 
