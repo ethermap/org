@@ -24,7 +24,3 @@ Content Creator ( any field, biology, finance, law ) Researcher and Map Author w
 
 
 
-[emdax](https://github.com/emdax)
-<br>
-[danango](https://github.com/danango)
-<br>
