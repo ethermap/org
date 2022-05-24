@@ -1,5 +1,3 @@
-Available Roles
-
 ### Frontend Designer / UX Developer 
 Creative person to build ecosystem of experimental UI components. No specific frameworks necessary. Use whatever tools you like. HTML CSS JavaScript UI mini segments which fit together.  Ideally interested in broad range of fields, initially fintech, crypto economics, defi, energy routing. Later on biotech UI tiles, aerospace UI tiles. Various aesthetics and themes are desirable. Initially Sci-Fi Cypherpunk aesthetic for hardtech feel when routing commits and transactions. 
 REPO: UIX 
