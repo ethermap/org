@@ -16,7 +16,7 @@ Biz dev , understands space and market expert,
 
 
 ## Mathematician / Tactical Economist 
-Visionary thinker in any advanced mathematics, including combinatorics, graphs, constant functions
+Visionary thinker in any advanced mathematics, including combinatorics, graph theory, linear algebra, functional mathematics. Ideally your work and approach can manifest experimental prototypes and proofs of concepts. Python Jupyter Notebooks, Seaborn, Custom UI, WebGL. Readout in Python dataframes, porting to or rendering from real-time real-world dataframes returned from Cassandra, NEO4J or some other genious database which you believe we absolutely need to use. 
 
 
 
