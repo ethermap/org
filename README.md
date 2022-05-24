@@ -31,7 +31,7 @@ Content Creator ( any field, biology, finance, law ) Researcher and Map Author w
 <br>
 
 ### Systems Engineer
-Optimized compiled applications engineer
+Optimized compiled applications engineer.
 <br>
 <br>
 <br>
